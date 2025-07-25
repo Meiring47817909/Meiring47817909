@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meiring0505@gmail.com**
 
-- 📄 Know about my experiences [https://meiring47817909.github.io/](https://meiring47817909.github.io/)
+- 📄 Know about my experiences [https://meiring47817909.github.io/Virtual-CV/](https://meiring47817909.github.io/Virtual-CV/)
 
 - ⚡ Fun fact **I play squash!**
 
