@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Meiring</h1>
-<h3 align="center">🚀 Junior Software Developer</h3>
+<h3 align="center">🚀 Software Developer | BSc Honours Student</h3>
 
-- 🌱 I’m currently learning **Angular**
+<p align="center">
+  <a href="https://meiring47817909.github.io/Virtual-CV/"><b>Explore My Virtual CV 📄</b></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Meiring47817909](https://github.com/Meiring47817909)
+---
 
-- 📫 How to reach me **meiring0505@gmail.com**
+### 🎓 About Me
+- 📖 Currently pursuing **BSc Honours in Computer Science & IT** at North-West University.
+- 👨‍💻 Check out my latest work and repositories below or at [github.com/Meiring47817909](https://github.com/Meiring47817909).
+- ⚡ **Fun fact:** When I'm not coding, you'll probably find me on the **squash** court! 🎾
 
-- 📄 Know about my experiences [https://meiring47817909.github.io/Virtual-CV/](https://meiring47817909.github.io/Virtual-CV/)
-
-- ⚡ Fun fact **I play squash!**
+### 📩 Let's Connect
+- 📧 **Email:** [meiring0505@gmail.com](mailto:meiring0505@gmail.com)
+- 📞 **Mobile:** [+27 67 028 7985](tel:+27670287985)
+- 📍 **Location:** Potchefstroom, South Africa
