@@ -9,6 +9,7 @@
 
 ### 🎓 About Me
 - 📖 Currently pursuing **BSc Honours in Computer Science & IT** at North-West University.
+- 👨‍💻 Check out my virtual CV website at [https://meiring47817909.github.io/Virtual-CV/](https://meiring47817909.github.io/Virtual-CV/).
 - 👨‍💻 Check out my latest work and repositories below or at [github.com/Meiring47817909](https://github.com/Meiring47817909).
 - ⚡ **Fun fact:** When I'm not coding, you'll probably find me on the **squash** court! 🎾
 
